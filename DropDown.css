@@ -93,3 +93,21 @@ ul li:hover .sub-menu-1 {
     margin-left: 140px;
     background: rgba(0, 100, 0);
 }
+
+.hi {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.wel {
+    color: rgb(255, 248, 248);
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+input {
+    margin: 2rem 0;
+    width: 150px;
+    border: none;
+    border-radius: 0;
+}
